@@ -28,5 +28,5 @@ if __name__ == "__main__":
     ws.run_forever()
 
 def hello():
-     print "hello world!"
+     print ("hello world!")
      
